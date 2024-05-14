@@ -1,28 +1,49 @@
-# JS DOM - Activity - Simple Text Editor
+# Simple Text Editor
 
-## Overview
+This is a simple web application that allows you to enter text and copy it to your clipboard.
 
-This activity is a simple text editor built using JavaScript DOM. It allows users to input text, which is then displayed in a `<div>` element as an `<h2>` text. Additionally, it features a copy button that enables users to copy the text displayed in the `<h2>` element.
+## Table of Contents
 
-## Preview
+- [Introduction](#introduction)
+- [Features](#features)
+- [Instructions](#instructions)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-![Landing Page Preview](preview.png)
+## Introduction
 
-## How it Works
+The Simple Text Editor is a small project demonstrating the use of JavaScript DOM manipulation to create a simple text editing tool in the browser.
 
-- Users can input text in the provided text field.
-- As soon as the user types in the input field, the entered text is dynamically displayed in the `<div>` element as an `<h2>` text.
-- Users can click the "Copy Text" button to copy the text displayed in the `<h2>` element to the clipboard.
+## Features
+
+- Allows users to enter text in an input field.
+- Displays the entered text in a styled box.
+- Provides a button to copy the text to the clipboard.
+
+## Instructions
+
+To use the Simple Text Editor:
+
+1. Open `index.html` in your web browser.
+2. Enter text in the input field provided.
+3. Click the "Copy Text" button to copy the entered text to your clipboard.
+
+## Demo
+
+[![Simple Text Editor Preview](preview.png)](https://hardik-techie.github.io/Simple-Text-Editor/)
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript DOM
+- JavaScript
 
-## Usage
+## Contributing
 
-1. Open the `index.html` file in a web browser.
-2. Enter text in the input field.
-3. The entered text will be dynamically displayed in the `<div>` element as an `<h2>` text.
-4. Click the "Copy Text" button to copy the text displayed in the `<h2>` element to the clipboard.
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
