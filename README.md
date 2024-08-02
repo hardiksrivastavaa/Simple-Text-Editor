@@ -31,7 +31,7 @@ To use the Simple Text Editor:
 
 ## Demo
 
-[![Simple Text Editor Preview](preview.png)](https://hardik-techie.github.io/Simple-Text-Editor/)
+[![Simple Text Editor Preview](preview.png)](https://hardiksrivatavaa.github.io/Simple-Text-Editor/)
 
 ## Technologies Used
 
